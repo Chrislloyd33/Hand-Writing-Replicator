@@ -16,6 +16,7 @@ public class HandWritingReplicator {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        new Testing().setVisible(true);
     }
     
 }
